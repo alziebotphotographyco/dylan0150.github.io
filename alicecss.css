@@ -1,0 +1,21 @@
+.row{
+	margin-bottom: 25px;
+	
+}
+
+.col-sm-6{
+	padding: 15px;
+	display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+}
+
+.header{
+	display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+}
+
+.footer{
+	
+}

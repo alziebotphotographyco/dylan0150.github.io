@@ -1,0 +1,29 @@
+#image {
+display: inline;
+display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+padding: 15px
+}
+
+#caption {
+display: inline;
+display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+padding: 5px
+}
+
+#body {
+display: inline;
+display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+padding: 15px
+}
+
+.header{
+	display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+}
